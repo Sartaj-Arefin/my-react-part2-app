@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.card {
+  border: 2px solid goldenrod;
+  border-radius: 15px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.flex {
+  border: 2px solid goldenrod;
+  border-radius: 15px;
+  padding: 5px;
+  margin: 10px;
+}
